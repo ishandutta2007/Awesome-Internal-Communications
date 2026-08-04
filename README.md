@@ -1,6 +1,4 @@
-# Awesome-Internal-Communications
-
-# Similar Projects to Internal Communications Platforms
+# Awesome Internal Communications Platforms
 
 **Internal Communications Platforms** (also called employee intranet or employee experience platforms) help organizations publish news, target messages, engage employees, share knowledge, and reach both desk-based and frontline workers across apps, email, and digital channels. Leading commercial platforms include Staffbase, Firstup, Workvivo, Simpplr, Interact, Axero, Haiilo, Beekeeper, Unily, Jostle, Poppulo, and ContactMonkey.
 
@@ -8,11 +6,20 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[Staffbase](https://staffbase.com/)** — Enterprise internal communications platform with multi-channel publishing (app, intranet, email, signage) and strong frontline reach.
-- **[Firstup](https://firstup.io/)** — Personalized, multi-channel employee communication and engagement platform.
-- **[Workvivo](https://www.workvivo.com/)** — Social-style employee experience and communications platform (now part of Zoom).
-- **[Simpplr](https://www.simpplr.com/)** — AI-powered modern intranet and employee experience platform.
-- **[Interact](https://www.interactsoftware.com/)**, **[Axero](https://axerosolutions.com/)**, **[Haiilo](https://haiilo.com/)**, **[Beekeeper](https://www.beekeeper.io/)**, **[Unily](https://www.unily.com/)**, **[Jostle](https://www.jostle.com/)**, **[Poppulo](https://www.poppulo.com/)**, **[ContactMonkey](https://www.contactmonkey.com/)** — Specialized intranet, frontline, email analytics, and employee engagement solutions.
+| Platform | Description | Pricing | Free Tier Limit |
+|---|---|---|---|
+| **[Staffbase](https://staffbase.com/)** | Enterprise internal communications platform with multi-channel publishing (app, intranet, email, signage) and strong frontline reach. | Custom Quote | None |
+| **[Firstup](https://firstup.io/)** | Personalized, multi-channel employee communication and engagement platform. | Custom Quote | None |
+| **[Workvivo](https://www.workvivo.com/)** | Social-style employee experience and communications platform (now part of Zoom). | Custom Quote | None |
+| **[Simpplr](https://www.simpplr.com/)** | AI-powered modern intranet and employee experience platform. | Custom Quote | None |
+| **[Interact](https://www.interactsoftware.com/)** | Specialized intranet, frontline, email analytics, and employee engagement solutions. | Custom Quote | None |
+| **[Axero](https://axerosolutions.com/)** | Specialized intranet, frontline, email analytics, and employee engagement solutions. | Custom Quote | None |
+| **[Haiilo](https://haiilo.com/)** | Specialized intranet, frontline, email analytics, and employee engagement solutions. | Custom Quote | None |
+| **[Beekeeper](https://www.beekeeper.io/)** | Specialized intranet, frontline, email analytics, and employee engagement solutions. | Custom Quote | Up to 30 users |
+| **[Unily](https://www.unily.com/)** | Specialized intranet, frontline, email analytics, and employee engagement solutions. | Custom Quote | None |
+| **[Jostle](https://www.jostle.com/)** | Specialized intranet, frontline, email analytics, and employee engagement solutions. | Custom Quote | None |
+| **[Poppulo](https://www.poppulo.com/)** | Specialized intranet, frontline, email analytics, and employee engagement solutions. | Custom Quote | None |
+| **[ContactMonkey](https://www.contactmonkey.com/)** | Specialized intranet, frontline, email analytics, and employee engagement solutions. | Custom Quote | None |
 
 ## 🔓 Open-Source Software
 
